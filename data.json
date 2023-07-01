@@ -1,20 +1,24 @@
 {
-        "Dash": {
-            "title": "Subscribe To Unlock",
-            "icon": "https://i.imgur.com/jYjyW6s.jpg",
-            "main": "https://i.imgur.com/7Rfr9Pl.jpg",
-            "first": "https://youtu.be/MFDdzpU-WSs",
-            "second": "https://youtu.be/NlOFUe1bkro",
-            "first_button":"Subscribe",
-            "second_button":"Like"
-        },
-        "Main": {
-            "title": "Subscribe To Unlock",
-            "icon": "https://i.imgur.com/jYjyW6s.jpg",
-            "main": "https://i.imgur.com/7Rfr9Pl.jpg",
-            "first": "https://youtu.be/h97DBZjtD0A",
-            "second": "https://youtu.be/1D3mCrUZWTI",
-            "first_button":"Subscribe",
-            "second_button":"Like"
-        }
+    "Config": {
+        "enabled": "true",
+        "message": "Temporarily unavailable"
+    },
+    "Dash": {
+        "title": "Subscribe To Unlock",
+        "icon": "https://i.imgur.com/jYjyW6s.jpg",
+        "main": "https://i.imgur.com/7Rfr9Pl.jpg",
+        "first": "https://youtu.be/MFDdzpU-WSs",
+        "second": "https://youtu.be/NlOFUe1bkro",
+        "first_button": "Subscribe",
+        "second_button": "Like"
+    },
+    "Main": {
+        "title": "Subscribe To Unlock",
+        "icon": "https://i.imgur.com/jYjyW6s.jpg",
+        "main": "https://i.imgur.com/7Rfr9Pl.jpg",
+        "first": "https://youtu.be/h97DBZjtD0A",
+        "second": "https://youtu.be/1D3mCrUZWTI",
+        "first_button": "Subscribe",
+        "second_button": "Like"
+    }
 }
