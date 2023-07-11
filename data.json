@@ -1,6 +1,6 @@
 {
     "config": {
-        "enabled": "false",
+        "enabled": "true",
         "message": "Temporarily unavailable"
     },
     "Dash": {
@@ -8,7 +8,7 @@
         "icon": "https://i.imgur.com/jYjyW6s.jpg",
         "main": "https://i.imgur.com/5LMmn4e.jpg",
         "first": "https://www.facebook.com/profile.php?id=100090755569827&mibextid=ZbWKwL",
-        "second": "https://colorgameland1.page.link/WarlitoGamingFB",
+        "second": "https://colorgameland1.page.link/FuegieGaming",
         "first_button": "Install to unlock",
         "second_button": "Follow"
     },
