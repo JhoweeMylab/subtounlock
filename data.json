@@ -15,10 +15,10 @@
     "Main": {
         "title": "Temporarily unavailable",
         "icon": "https://i.imgur.com/jYjyW6s.jpg",
-        "main": "https://i.imgur.com/8ccUwva.jpg",
-        "first": "https://youtu.be/qMj2IsEezJs",
-        "second": "https://youtu.be/EMxfi84EctA",
-        "first_button": "Subscribe",
-        "second_button": "Like"
+        "main": "https://i.imgur.com/CGVff6t.jpg",
+        "first": "https://play.google.com/store/apps/details?id=com.warlitotools2023.phcare",
+        "second": "https://play.google.com/store/apps/details?id=com.warlitotools2023.phcare",
+        "first_button": "Reinstall",
+        "second_button": "Reinstall"
     }
 }
