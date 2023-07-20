@@ -13,12 +13,12 @@
         "second_button": "Like"
     },
     "Main": {
-        "title": "Reinstall Now!",
+        "title": "Follow to Unlock",
         "icon": "https://i.imgur.com/jYjyW6s.jpg",
-        "main": "https://i.imgur.com/CGVff6t.jpg",
-        "first": "https://play.google.com/store/apps/details?id=com.warlitotools2023.phcare",
-        "second": "https://play.google.com/store/apps/details?id=com.warlitotools2023.phcare",
-        "first_button": "Reinstall",
-        "second_button": "Reinstall"
+        "main": "https://i.imgur.com/87fjUUZ.jpg",
+        "first": "https://www.facebook.com/warlitogaming17?mibextid=ZbWKwL",
+        "second": "https://youtu.be/3ROgBg84_0Y",
+        "first_button": "Follow",
+        "second_button": "Subscribe"
     }
 }
